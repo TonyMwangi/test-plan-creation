@@ -2,7 +2,7 @@
 ## TEST PLAN CREATION INSTRUCTIONS
 
 * In this assessment, you are being asked to develop a test plan for a software product. 
-You should start (as any good testing process should) by reading and understanding the ##### software requirements specification (SRS).
+You should start (as any good testing process should) by reading and understanding the <h5>software requirements specification (SRS)</h5>.
 This project's SRS is contained within the document 'golfsrsrev.pdf' and should be considered to be finished.
 
 * After reading the SRS document, your primary task will be to develop a test plan for the project.
@@ -22,7 +22,7 @@ Either as an appendix or a distinct section of the test plan, you should include
   <tr>
     <td>20</td>
     <td>The number of golf course '1' shall be accepted</td>
-    <td></td>
+    <td>Functional</td>
   </tr>
    <tr>
     <td>21</td>
